@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1630390958 source:c:\users\bacigale\documents\bacis\evenements\invites.cpp
+	<iostream>
+
+1630390958 source:c:\users\bacigale\documents\bacis\evenements\organisateurs.cpp
+	<iostream>
+
+1630505109 source:c:\users\bacigale\documents\bacis\evenements\activites.cpp
+	<iostream>
+
+1630495398 source:c:\users\bacigale\documents\bacis\evenements\main.cpp
+	<iostream>
+	"Activites.cpp"
+	"Invites.cpp"
+	"Organisateurs.cpp"
+
+1630505109 c:\users\bacigale\documents\bacis\evenements\activites.cpp
+	<iostream>
+
+1630390958 c:\users\bacigale\documents\bacis\evenements\invites.cpp
+	<iostream>
+
+1630390958 c:\users\bacigale\documents\bacis\evenements\organisateurs.cpp
+	<iostream>
+
+1630505110 source:c:\users\denise kaf\desktop\evenements\activites.cpp
+	<iostream>
+
+1630390960 source:c:\users\denise kaf\desktop\evenements\invites.cpp
+	<iostream>
+
+1630495400 source:c:\users\denise kaf\desktop\evenements\main.cpp
+	<iostream>
+	"Activites.cpp"
+	"Invites.cpp"
+	"Organisateurs.cpp"
+
+1630505110 c:\users\denise kaf\desktop\evenements\activites.cpp
+	<iostream>
+
+1630390960 c:\users\denise kaf\desktop\evenements\invites.cpp
+	<iostream>
+
+1630390960 c:\users\denise kaf\desktop\evenements\organisateurs.cpp
+	<iostream>
+
+1630390960 source:c:\users\denise kaf\desktop\evenements\organisateurs.cpp
+	<iostream>
+
